@@ -1,0 +1,116 @@
+body {
+  text-align: center;}
+header {
+  height: 10%;
+  width: 100%;
+  text-align: right;
+
+}
+
+.icon {
+  font-size: 11px;
+  width: auto;
+  display: inline-block;
+
+}
+
+.images {
+  display: inline-block;
+}
+
+.gmail {
+  display: inline-block;
+}
+
+
+.button {
+
+  display: inline-block;
+  width: 93px;
+  height: 30px;
+  font-size: 13px;
+  border-radius: 2px;
+  border: none;
+color: white;
+margin-top: 11px;
+margin-right: 20px;
+font-weight: bold;
+background-color: blue;
+/*margin-left: 1160px;*/
+}
+
+
+
+img {
+  width: 100px;
+margin: auto;
+margin-top: 20px;
+}
+
+
+button {
+
+  height: 36px;
+  line-height: 27px;
+ -moz-user-select: none;
+   background-color: #f2f2f2 ;
+   border: 1px solid #f2f2f2 ;
+   border-radius: 2px;
+   color: #757575 ;
+   cursor: default;
+   font-family: arial,sans-serif;
+   font-size: 13px;
+   font-weight: bold;
+   min-width: 54px;
+   padding: 0 16px;
+   display: inline-block;
+   margin: 40px 5px 50px 0px;
+}
+
+
+
+
+input {
+
+  height: 40px;
+  border-style: inherit;
+  box-shadow: 1px 1px 3px 1px grey;
+  width: 400px;
+  line-height: 27px;
+ -moz-user-select: none;
+   background-color: #f2f2f2 ;
+   border: 1px solid #f2f2f2 ;
+   border-radius: 2px;
+   color: #757575 ;
+   cursor: default;
+   font-family: arial,sans-serif;
+   font-size: 13px;
+   font-weight: bold;
+   min-width: 54px;
+   padding: 0 16px;
+   text-align: center;
+   display: inline-block;
+   margin: 40px 5px 50px 0px;
+   /*margin-left: 0px;*/
+
+}
+
+footer {
+  text-align: left;
+  margin-top: 54px;
+  padding-bottom: 30px;
+  width: 100%;
+  height: 30px;
+  background-color: #F5F5F5;
+}
+
+.pub {display: inline-block;
+  text-align: left;
+}
+.entreprise {display: inline-block;
+  text-align: left;
+}
+
+.propos {
+  display: inline-block;
+}
